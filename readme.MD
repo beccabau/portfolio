@@ -1,4 +1,4 @@
-# readme (photography portfolio test) ;)
+# readme (photography portfolio test) how to's
 
 > beccabau
 
